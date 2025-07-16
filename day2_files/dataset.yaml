@@ -1,0 +1,6 @@
+train: C:/Users/yourk/Documents/3.Universitat/Taller_Ingenieria/day2_files/images/Train
+val: C:/Users/yourk/Documents/3.Universitat/Taller_Ingenieria/day2_files/images/Val
+test: C:/Users/yourk/Documents/3.Universitat/Taller_Ingenieria/day2_files/images/Test
+
+nc: 1
+names: ['person']
